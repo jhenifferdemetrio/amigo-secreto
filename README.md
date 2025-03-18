@@ -15,10 +15,10 @@
 
 
 ## Funcionalidades:
- *Adicionar nomes*: Os usuários escreverão o nome de um amigo no campo de texto *'Digite um nome'* e o adicionarão a uma lista visível ao clicar em *'Adicionar'*.
- *Validar entrada*: Se o campo de texto estiver vazio e clicar em *'Adicionar'*, o site exigirá um nome.
- *Visualizar a lista*: Os nomes inseridos aparecerão em uma lista abaixo do campo de entrada.
- *Sorteio aleatório*: Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
+ _Adicionar nomes_: Os usuários escreverão o nome de um amigo no campo de texto *'Digite um nome'* e o adicionarão a uma lista visível ao clicar em *'Adicionar'*.
+*Validar entrada*: Se o campo de texto estiver vazio e clicar em *'Adicionar'*, o site exigirá um nome.
+*Visualizar a lista*: Os nomes inseridos aparecerão em uma lista abaixo do campo de entrada.
+*Sorteio aleatório*: Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
 
 
 
