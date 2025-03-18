@@ -59,7 +59,7 @@
 
 
 
-## 👥 Créditos
+## Créditos
 → Imagens: Disponibilizado pela [Alura](https://www.alura.com.br)
 
 → HTML e CSS Disponibilizado pela [Alura](https://www.alura.com.br)
