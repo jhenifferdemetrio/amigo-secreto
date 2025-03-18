@@ -3,7 +3,7 @@
 
 
 ## Descrição:
-● Este projeto foi criado como para desafio de desenvolvimento do curso Oracle Next Education (ONE) juntamente com a Alura. O objetivo era de demonstrar habilidades em lógica de programação, aplicando conceitos-chave como funções, arrays, condicionais e variáveis.
+● Este projeto foi criado para o desafio de desenvolvimento do curso Oracle Next Education (ONE) juntamente com a Alura. O objetivo era de demonstrar habilidades em lógica de programação, aplicando conceitos-chave como funções, arrays, condicionais e variáveis.
 
 
 
